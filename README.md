@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nadem2601
-- 👀 I’m interested in Data Analysis using python , excel
+- 👋 Hi, I’m @Nadeem
+- 👀 I’m interested in Data Analysis using python , excel , Pandas , numby ,and power bi
 - 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on these field 
 - 📫 How to reach me Mohamed_nadem@outlook.com
 
 <!---
