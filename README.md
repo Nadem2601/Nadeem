@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nadeem
-- 👀 I’m interested in Data Analysis using python , excel , Pandas , numby ,and power bi
-- 🌱 I’m currently learning data analysis
+- 👋 Hi, I’m @Mohamed Nadeem
+👀 I’m interested in Data Analysis using python , excel , Pandas , numby ,and making visualizations using powerBI and Tableau
+- 🌱 I’m currently learning data scince 
 - 💞️ I’m looking to collaborate on these field 
 - 📫 How to reach me Mohamed_nadem@outlook.com
 
